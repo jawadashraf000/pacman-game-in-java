@@ -32,13 +32,21 @@ It is built to be played and studied.
 
 ---
 
+## Game Visuals
+
+
+| Start Screen | Gameplay | Game Over |
+|---|---|---|
+| ![Start Screen](screenshots/startScreen.png) | ![Gameplay](screenshots/gamePlay.png) | ![Game Over](screenshots/gameOver.png) |
+
+---
+
 ## Table of Contents
 
 - [Features](#features)
 - [Architecture](#architecture)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
 - [Level Progression](#level-progression)
@@ -143,15 +151,6 @@ PacMan-Game-in-Java/
 │
 └── highscore.txt                 ← Auto-generated on first high score save
 ```
-
----
-
-## Screenshots
-
-
-| Start Screen | Gameplay | Game Over |
-|---|---|---|
-| ![Start Screen](screenshots/startScreen.png) | ![Gameplay](screenshots/gamePlay.png) | ![Game Over](screenshots/gameOver.png) |
 
 ---
 
